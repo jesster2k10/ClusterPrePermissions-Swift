@@ -66,7 +66,7 @@ And run `cathage update`
 
 If you prefer not to use any of the aforementioned dependency managers, you can integrate Alamofire into your project manually. 
 
-Just drag all the files from the `/Sources/` directory into your project and copy if needed.
+Just drag all the files from the `PrePermissions/PrePermissions/Sources/` directory into your project and copy if needed.
 
 ## Contribution
 
