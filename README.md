@@ -70,6 +70,7 @@ Just drag all the files from the `PrePermissions/PrePermissions/Sources/` direct
 
 ## Contribution
 
+- Read the code of conduct 
 - If you've found a bug, please open an issue.
 - If you've a feature request, please open a pull request
 - Please check any closed issues before you open a new one!
