@@ -1,4 +1,5 @@
-# PrePermissions
+# :warning: this is still undergoing development :warning:
+
 ![PrePermissions](http://i.imgur.com/TZMEpqJ.png)
 
 ![Cocoapods](https://img.shields.io/cocoapods/v/AFNetworking.svg) ![Build](https://img.shields.io/travis/USER/REPO.svg) ![Swift](https://img.shields.io/badge/swift-3.0-orange.svg) ![Platform](https://img.shields.io/badge/platform-ios8+-pink.svg)
@@ -34,10 +35,10 @@ To integrate `PrePermissions` into your project using Cocoapods, just add it in 
 
 ``` ruby
 # For latest release in cocoapods
-pod 'PerPermissions'
+pod 'PrePermissions'
 
 # Latest on develop
-pod 'PerPermissions', :git => 'https://github.com/jesster2k10/PerPermissions.git', :branch => 'develop'
+pod 'PrePermissions', :git => 'https://github.com/jesster2k10/PrePermissions.git', :branch => 'develop'
 ```
 
 And run `pod install`
@@ -53,10 +54,10 @@ $ brew update
 $ brew install carthage
 ```
 
-To integrate `PrewPermissions` into your project using Carthage, add it to your `Cartfile`:
+To integrate `PrePermissions` into your project using Carthage, add it to your `Cartfile`:
 
 ``` ruby
-github "jesster2k10/PrewPermissions" 
+github "jesster2k10/PrePermissions" 
 ```
 
 And run `cathage update`
